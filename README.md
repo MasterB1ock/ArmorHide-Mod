@@ -1,0 +1,1 @@
+✅ Hides only your armor (not your skin or cosmetics). ✅ Works with FreeLook and other mods so you still see your skin and cosmetics. ✅ In the Escape (ESC) menu, your skin, cosmetics, and nametag should be visible. ✅ Other players still see your armor normally.
